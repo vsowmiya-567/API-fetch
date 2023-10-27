@@ -1,0 +1,41 @@
+
+#box{
+    height: 870px;
+    width: 100%;
+    border: 5px solid black;
+    position: relative;
+    dis
+}
+
+h4{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(6, 116, 163);
+}
+.user{
+    color: white;
+    margin-left:30px;
+    padding-top: 5px;
+    position: absolute;
+    
+}
+
+
+#crd{
+    background-color: aquamarine;
+    height: 180px;
+    
+}
+.txt{
+    font-size: medium;
+    margin-left: 20px;
+    margin-top: 8px;
+    padding: 0px;
+    text-align: justify;
+}
+.row{
+   
+   display: flex;
+   row-gap: 20px;
+}
+
